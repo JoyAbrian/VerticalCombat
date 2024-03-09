@@ -34,6 +34,7 @@ Every 3D models i used in this game
 [SmokeyKatevin : Button Model](https://www.cgtrader.com/free-3d-models/industrial/other/emergency-button-657362a5-b65e-44ef-a2a1-bd1f20a850ae) <br>
 [Foxfire614 : First Aid Kit Model](https://p3dm.ru/files/others/others/20289-aid-kit.html) <br>
 [Admin : Weapon Crate Model](https://p3dm.ru/files/others/3812-hangar-crate-full-pallet-.html) <br>
+[Admin : Flower Model](https://p3dm.ru/files/others/props/3649-pot-with-flower-.html)  <br>
 
 ## License
 
