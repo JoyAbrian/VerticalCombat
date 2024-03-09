@@ -25,4 +25,10 @@ public class InputManager : MonoBehaviour
     {
         onFoot.Enable();
     }
+
+    private void OnDisable()
+    {
+        onFoot.Disable();
+    }
+
 }
