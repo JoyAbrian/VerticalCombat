@@ -28,13 +28,10 @@ To get started with Vertical Combat, follow these steps:
 - **Storage**: 50 GB available space
 - **Additional Notes**: Broadband internet connection required for multiplayer
 
-## Feedback
-
-We're constantly striving to improve Vertical Combat and would love to hear your feedback! Whether you have suggestions, bug reports, or just want to share your experiences, feel free to reach out to us via [email](mailto:feedback@verticalcombat.com) or [social media](https://twitter.com/VerticalCombat).
-
 ## Credits
+Every 3D models i used in this game
 
-Vertical Combat is developed by [YourGameStudioName]. Special thanks to all our team members, playtesters, and supporters who helped make this game possible.
+[Button Models](https://www.cgtrader.com/free-3d-models/industrial/other/emergency-button-657362a5-b65e-44ef-a2a1-bd1f20a850ae)
 
 ## License
 
