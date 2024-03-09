@@ -31,7 +31,8 @@ To get started with Vertical Combat, follow these steps:
 ## Credits
 Every 3D models i used in this game
 
-[Button Models](https://www.cgtrader.com/free-3d-models/industrial/other/emergency-button-657362a5-b65e-44ef-a2a1-bd1f20a850ae)
+[SmokeyKatevin : Button Models](https://www.cgtrader.com/free-3d-models/industrial/other/emergency-button-657362a5-b65e-44ef-a2a1-bd1f20a850ae) <br>
+[Foxfire614 : First Aid Kit Models](https://p3dm.ru/files/others/others/20289-aid-kit.html)
 
 ## License
 
