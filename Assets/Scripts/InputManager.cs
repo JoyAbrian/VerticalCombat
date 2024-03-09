@@ -11,7 +11,7 @@ public class InputManager : MonoBehaviour
     private PlayerMotor motor;
 
     // Start is called before the first frame update
-    void Start()
+    void Awake()
     {
         playerInput = new PlayerInput();
         onFoot = playerInput.OnFoot;
