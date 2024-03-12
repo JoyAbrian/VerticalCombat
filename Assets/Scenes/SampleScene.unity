@@ -1379,6 +1379,16 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2060146349}
     m_Modifications:
+    - target: {fileID: 960373552454490551, guid: debaa2e92c63a7548b8df18720fabd1e,
+        type: 3}
+      propertyPath: m_Center.x
+      value: 0.69
+      objectReference: {fileID: 0}
+    - target: {fileID: 960373552454490551, guid: debaa2e92c63a7548b8df18720fabd1e,
+        type: 3}
+      propertyPath: m_Center.z
+      value: 0.02
+      objectReference: {fileID: 0}
     - target: {fileID: 4411496493454694426, guid: debaa2e92c63a7548b8df18720fabd1e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1388,6 +1398,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.y
       value: -0.313
+      objectReference: {fileID: 0}
+    - target: {fileID: 4804066717781652096, guid: debaa2e92c63a7548b8df18720fabd1e,
+        type: 3}
+      propertyPath: promptMessage
+      value: '[E] Press Button'
       objectReference: {fileID: 0}
     - target: {fileID: 6294014543725856440, guid: debaa2e92c63a7548b8df18720fabd1e,
         type: 3}
