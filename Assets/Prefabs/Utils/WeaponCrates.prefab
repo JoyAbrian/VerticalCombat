@@ -9,6 +9,8 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8914276931664361503}
+  - component: {fileID: 5061687538709947282}
+  - component: {fileID: 8547522705930798072}
   m_Layer: 0
   m_Name: WeaponCrates
   m_TagString: Untagged
@@ -32,6 +34,40 @@ Transform:
   - {fileID: 8915452570375733964}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &5061687538709947282
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 417997303132658168}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 2.5, y: 2.5, z: 2.5}
+  m_Center: {x: 0, y: 1.32, z: 0.14}
+--- !u!114 &8547522705930798072
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 417997303132658168}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f45b85d17582c74791be4cd60641483, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  promptMessage: '[E] Refill Ammo'
 --- !u!1001 &8948852145829684519
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -118,40 +154,8 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 15ff3934e3a38f6458072802b888484f,
-        type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 773669499942314692}
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 15ff3934e3a38f6458072802b888484f, type: 3}
---- !u!1 &8138528224765712502 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 15ff3934e3a38f6458072802b888484f,
-    type: 3}
-  m_PrefabInstance: {fileID: 8948852145829684519}
-  m_PrefabAsset: {fileID: 0}
---- !u!64 &773669499942314692
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8138528224765712502}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 5
-  m_Convex: 0
-  m_CookingOptions: 30
-  m_Mesh: {fileID: -8078002353661256056, guid: 15ff3934e3a38f6458072802b888484f, type: 3}
 --- !u!4 &8915452570375733964 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 15ff3934e3a38f6458072802b888484f,
