@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2265228111748100850}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: First Aid Kit
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -110,10 +110,40 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -4560884380629454036, guid: b878b8e2b6129bf448dd2d8f48b93119,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: -122828261115192467, guid: b878b8e2b6129bf448dd2d8f48b93119,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: b878b8e2b6129bf448dd2d8f48b93119,
         type: 3}
       propertyPath: m_Name
       value: aid kit
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b878b8e2b6129bf448dd2d8f48b93119,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 1143238392761963169, guid: b878b8e2b6129bf448dd2d8f48b93119,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2950461917342442254, guid: b878b8e2b6129bf448dd2d8f48b93119,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 8488753828270246290, guid: b878b8e2b6129bf448dd2d8f48b93119,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
