@@ -33,6 +33,24 @@
                     "initialStateCheck": true
                 },
                 {
+                    "name": "Crouch",
+                    "type": "Button",
+                    "id": "2b0ec701-04e1-4e73-8a85-14b436558626",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Sprint",
+                    "type": "Button",
+                    "id": "796a090c-cede-42df-91a0-f8b5eb4feda4",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
                     "name": "Interact",
                     "type": "Button",
                     "id": "ff0315ed-be79-4786-8c88-ffcc02d701e3",
@@ -199,6 +217,28 @@
                 },
                 {
                     "name": "",
+                    "id": "d738261b-858a-466c-ad14-4173819e8478",
+                    "path": "<Keyboard>/leftShift",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Sprint",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "4374dec2-3e9c-42e8-847f-79e6e5554582",
+                    "path": "<Gamepad>/leftStickPress",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Sprint",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
                     "id": "974d45e8-e585-44eb-afcf-83144b84ae9a",
                     "path": "<Keyboard>/e",
                     "interactions": "",
@@ -216,6 +256,28 @@
                     "processors": "",
                     "groups": "",
                     "action": "Interact",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "bfaac7ae-b110-4054-befe-24b59cd5045e",
+                    "path": "<Keyboard>/leftCtrl",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Crouch",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "7ff49378-6d2f-47a7-bb43-b4888a1563c7",
+                    "path": "<Gamepad>/buttonEast",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Crouch",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
