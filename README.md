@@ -35,6 +35,8 @@ Every 3D models i used in this game
 [Foxfire614 : First Aid Kit Model](https://p3dm.ru/files/others/others/20289-aid-kit.html) <br>
 [Admin : Weapon Crate Model](https://p3dm.ru/files/others/3812-hangar-crate-full-pallet-.html) <br>
 [Admin : Flower Model](https://p3dm.ru/files/others/props/3649-pot-with-flower-.html)  <br>
+[sutinoer : Chair Model](https://p3dm.ru/files/furniture/chairs/11660-bar-chair.html)  <br>
+[sutinoer : Table Model](https://p3dm.ru/files/furniture/tables/11756-small-table.html)  <br>
 
 ## License
 
