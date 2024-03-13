@@ -18,12 +18,12 @@ public class PlayerHealth : MonoBehaviour
     void Start()
     {
         health = maxHealth;
-        UpdateHealthUI();
     }
 
     void Update()
     {
         health = Mathf.Clamp(health, 0, maxHealth);
+        UpdateHealthUI();
     }
 
     public void UpdateHealthUI()
