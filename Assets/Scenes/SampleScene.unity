@@ -3013,6 +3013,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 5318013795809132125, guid: c007113466495a241890faba5dc09c65,
+        type: 3}
+      propertyPath: healthText
+      value: 
+      objectReference: {fileID: 1968551524}
+    - target: {fileID: 5318013795809132125, guid: c007113466495a241890faba5dc09c65,
+        type: 3}
+      propertyPath: backHealthBar
+      value: 
+      objectReference: {fileID: 1092859148}
+    - target: {fileID: 5318013795809132125, guid: c007113466495a241890faba5dc09c65,
+        type: 3}
+      propertyPath: frontHealthBar
+      value: 
+      objectReference: {fileID: 958392284}
     - target: {fileID: 9010140004530193403, guid: c007113466495a241890faba5dc09c65,
         type: 3}
       propertyPath: m_LocalPosition.x
