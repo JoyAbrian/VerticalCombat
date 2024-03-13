@@ -38,6 +38,7 @@ Every 3D models i used in this game
 [sutinoer : Chair Model](https://p3dm.ru/files/furniture/chairs/11660-bar-chair.html)  <br>
 [sutinoer : Table Model](https://p3dm.ru/files/furniture/tables/11756-small-table.html)  <br>
 [sutinoer : Round Table Model](https://p3dm.ru/files/furniture/tables/11029-vault-roundtable.html)  <br>
+[1up Indie : Blood Overlay](https://opengameart.org/content/blood-overlay) <br>
 
 ## License
 
