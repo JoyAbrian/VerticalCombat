@@ -19,14 +19,6 @@ public class PlayerHealth : MonoBehaviour
     {
         health = maxHealth;
         UpdateHealthUI();
-        if (Input.GetKeyDown(KeyCode.K))
-        {
-            TakeDamage(5f);
-        }
-        if (Input.GetKeyDown(KeyCode.L))
-        {
-            RestoreHealth(5f);
-        }
     }
 
     void Update()
