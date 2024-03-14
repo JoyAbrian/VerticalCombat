@@ -39,6 +39,9 @@ Every 3D models i used in this game
 [sutinoer : Table Model](https://p3dm.ru/files/furniture/tables/11756-small-table.html)  <br>
 [sutinoer : Round Table Model](https://p3dm.ru/files/furniture/tables/11029-vault-roundtable.html)  <br>
 [1up Indie : Blood Overlay](https://opengameart.org/content/blood-overlay) <br>
+[sutinoer : Stair Model](https://p3dm.ru/files/others/props/10266-stairs.html) <br>
+[admin : Ammo Box Model](https://p3dm.ru/files/others/8772-ammo-box-grenade-.html) <br>
+
 
 ## License
 
