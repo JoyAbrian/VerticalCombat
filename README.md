@@ -41,7 +41,7 @@ Every 3D models i used in this game
 [1up Indie : Blood Overlay](https://opengameart.org/content/blood-overlay) <br>
 [sutinoer : Stair Model](https://p3dm.ru/files/others/props/10266-stairs.html) <br>
 [admin : Ammo Box Model](https://p3dm.ru/files/others/8772-ammo-box-grenade-.html) <br>
-
+[admin : Hall Table Model](https://p3dm.ru/files/furniture/tables/1799-hall-table-.html) <br>
 
 ## License
 
