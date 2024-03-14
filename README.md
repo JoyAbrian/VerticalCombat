@@ -42,6 +42,7 @@ Every 3D models i used in this game
 [sutinoer : Stair Model](https://p3dm.ru/files/others/props/10266-stairs.html) <br>
 [admin : Ammo Box Model](https://p3dm.ru/files/others/8772-ammo-box-grenade-.html) <br>
 [admin : Hall Table Model](https://p3dm.ru/files/furniture/tables/1799-hall-table-.html) <br>
+[Protogen_X : Enemy Model](https://www.printables.com/model/648732-angry-cube) <br>
 
 ## License
 
