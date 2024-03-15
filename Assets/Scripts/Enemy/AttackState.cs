@@ -6,6 +6,7 @@ public class AttackState : BaseStates
 {
     private float moveTimer;
     private float losePlayerTimer;
+    private float shotTimer;
 
     public override void Enter()
     {
@@ -21,6 +22,13 @@ public class AttackState : BaseStates
         {
             losePlayerTimer = 0;
             moveTimer += Time.deltaTime;
+            shotTimer += Time.deltaTime;
+            enemy.transform.LookAt(enemy.Player.transform);
+            if (shotTimer > enemy.fireRate)
+            {
+                Shoot();
+            }
+
             if (moveTimer > Random.Range(3, 7))
             {
                 enemy.Agent.SetDestination(enemy.transform.position + (Random.insideUnitSphere * 5));
@@ -36,5 +44,11 @@ public class AttackState : BaseStates
                 stateMachine.ChangeState(new PatrolStates());
             }
         }
+    }
+
+    public void Shoot()
+    {
+        Debug.Log("Shoot");
+        shotTimer = 0;
     }
 }
