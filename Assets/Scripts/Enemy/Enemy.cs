@@ -30,6 +30,7 @@ public class Enemy : MonoBehaviour
     void Update()
     {
         CanSeePlayer();
+        currentStates = stateMachine.activeState.ToString();
     }
 
     public bool CanSeePlayer()
