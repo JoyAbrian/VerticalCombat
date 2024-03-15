@@ -34,6 +34,7 @@ public class AttackState : BaseStates
                 enemy.Agent.SetDestination(enemy.transform.position + (Random.insideUnitSphere * 5));
                 moveTimer = 0;
             }
+            enemy.LastKnownPos = enemy.Player.transform.position;
         }
         else
         {
@@ -41,7 +42,7 @@ public class AttackState : BaseStates
             if (losePlayerTimer > 8)
             {
                 // Change to search state
-                stateMachine.ChangeState(new PatrolStates());
+                stateMachine.ChangeState(new SearchState());
             }
         }
     }
