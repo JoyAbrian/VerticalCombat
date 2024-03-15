@@ -1225,6 +1225,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 473928269}
     m_Modifications:
+    - target: {fileID: 2985824983646683396, guid: 4b9a6c7668dea5e4b9ac81a459cae461,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 3474197580225902506, guid: 4b9a6c7668dea5e4b9ac81a459cae461,
         type: 3}
       propertyPath: m_Name
@@ -1545,7 +1550,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 8
   m_IsActive: 1
 --- !u!4 &451094032
 Transform:
@@ -3616,7 +3621,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 8
   m_IsActive: 1
 --- !u!4 &1072038221
 Transform:
@@ -5324,7 +5329,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 8
   m_IsActive: 1
 --- !u!4 &1803930702
 Transform:
