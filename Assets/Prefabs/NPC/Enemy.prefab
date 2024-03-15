@@ -48,8 +48,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 49cfdb39e9037154d92dbf6f70e722ef, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  currentStates: 
   path: {fileID: 0}
+  sightDistance: 20
+  fieldOfView: 85
+  eyeHeight: 0
+  gunBarrel: {fileID: 0}
+  fireRate: 0
+  currentStates: 
 --- !u!114 &7815456527398485619
 MonoBehaviour:
   m_ObjectHideFlags: 0
