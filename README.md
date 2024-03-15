@@ -45,6 +45,7 @@ Every 3D models i used in this game
 [Protogen_X : Enemy Model](https://www.printables.com/model/648732-angry-cube) <br>
 [admin : Soryu Model](https://p3dm.ru/files/characters/sartoons/9982-asuka-langley-soryu.html) <br>
 [admin : SMG Model](https://p3dm.ru/files/weapon/submachine-gun/10203-submachine-gun.html) <br>
+[junglecat97 : Bullet Model](https://free3d.com/3d-model/bullet-shell-pistol-83409.html) <br>
 
 ## License
 
